@@ -1,7 +1,13 @@
 {
     "name": "NekoFest",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*",
+        "storyboard": "*",
+        "jacdac-game": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.0.32",
+        "proyecto ggj": "github:mcblackplayer/proyecto-ggj#master",
+        "color-coded-tilemap": "*"
     },
     "description": "",
     "files": [
